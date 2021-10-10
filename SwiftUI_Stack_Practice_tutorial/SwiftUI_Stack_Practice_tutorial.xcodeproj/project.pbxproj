@@ -14,6 +14,7 @@
 		C6B4753D270C287D00DCCBB4 /* MyProjectCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = C6B4753C270C287D00DCCBB4 /* MyProjectCard.swift */; };
 		C6B4753F270C301A00DCCBB4 /* MyBasicCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = C6B4753E270C301A00DCCBB4 /* MyBasicCard.swift */; };
 		C6B5C358270D36D500C65F79 /* MyCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = C6B5C357270D36D500C65F79 /* MyCard.swift */; };
+		C6B5C35A270D480900C65F79 /* MyList.swift in Sources */ = {isa = PBXBuildFile; fileRef = C6B5C359270D480900C65F79 /* MyList.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,6 +26,7 @@
 		C6B4753C270C287D00DCCBB4 /* MyProjectCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyProjectCard.swift; sourceTree = "<group>"; };
 		C6B4753E270C301A00DCCBB4 /* MyBasicCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyBasicCard.swift; sourceTree = "<group>"; };
 		C6B5C357270D36D500C65F79 /* MyCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyCard.swift; sourceTree = "<group>"; };
+		C6B5C359270D480900C65F79 /* MyList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyList.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				C6B4752E270C285100DCCBB4 /* SwiftUI_Stack_Practice_tutorialApp.swift */,
 				C6B47530270C285100DCCBB4 /* ContentView.swift */,
 				C6B4753C270C287D00DCCBB4 /* MyProjectCard.swift */,
+				C6B5C359270D480900C65F79 /* MyList.swift */,
 				C6B4753E270C301A00DCCBB4 /* MyBasicCard.swift */,
 				C6B47532270C285400DCCBB4 /* Assets.xcassets */,
 				C6B47534270C285400DCCBB4 /* Preview Content */,
@@ -151,6 +154,7 @@
 				C6B4753F270C301A00DCCBB4 /* MyBasicCard.swift in Sources */,
 				C6B5C358270D36D500C65F79 /* MyCard.swift in Sources */,
 				C6B4752F270C285100DCCBB4 /* SwiftUI_Stack_Practice_tutorialApp.swift in Sources */,
+				C6B5C35A270D480900C65F79 /* MyList.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
